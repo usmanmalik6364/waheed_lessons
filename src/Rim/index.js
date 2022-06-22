@@ -1,0 +1,2 @@
+
+export {Rim} from './Rim';
